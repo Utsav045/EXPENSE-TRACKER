@@ -8,3 +8,4 @@ git pull
 
 pip install gunicorn
 pip freeze > requirements.txt
+" ghello"
